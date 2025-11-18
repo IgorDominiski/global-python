@@ -6,6 +6,12 @@
 
 ---
 
+## Video Explicativo
+
+https://youtu.be/cnFdUs3AN8M
+
+---
+
 ## Descrição do Projeto
 
 Este projeto consiste no desenvolvimento de uma aplicação em Python voltada para o tema “Futuro do Trabalho”.
